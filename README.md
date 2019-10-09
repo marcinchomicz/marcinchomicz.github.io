@@ -1,1 +1,1 @@
-# marcinchomicz.github.io
+# ML/DL related case studies
