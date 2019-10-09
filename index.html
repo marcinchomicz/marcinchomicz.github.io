@@ -1,30 +1,6 @@
 # Ignore repo files
 exclude:
 - README.md
----
-# Front matter
----
-<!doctype html>
-<html lang="en-GB">
- <body>
- 
-    <ul class="list  list--repos">
-        <li class="item  item--repo">
-            <a href="#">repo-name</a>
-        </li>
-    </ul>
- 
- </body>
-</html>
-<ul class="portfolio">
-    {% for repo in site.github.public_repositories limit:28 %}
- 
-        {% if repo.fork != true %}
-            <li class="repo">
-               
-                <a href="{{ repo.homepage }}">{{ repo.name }}</a>
-             
-            </li>
-        {% endif %}
- 
-    {% e
+<li>
+ <ul> IMDB case study</ul>
+</li>
