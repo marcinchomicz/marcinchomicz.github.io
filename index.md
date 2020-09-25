@@ -52,15 +52,24 @@
 		</td>
 	</tr>
 	<tr>
-		<td colspan="2">&nbsp;</td>
-	</tr>
-	<tr>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
-	</tr>
-	<tr>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
+		<td class="auto-style6"><span lang="pl">
+			<a href="https://marcinchomicz.github.io/Natural%20language%20processing/IMDB_sentiment_analysis/IMDB%20Gensim%20Doc2Vec%20sentiment.html">
+				IMDB Sentiment analysis - Gensim Doc2Vec</a>
+			<a href="https://marcinchomicz.github.io/Natural%20language%20processing/IMDB_sentiment_analysis/IMDB%20Gensim%20Doc2Vec%20sentiment.ipynb">
+				<img class="auto-style5" height="10" src="logo_svg.png" width="37"></a></span>
+		</td>
+		<td>
+			<span lang="pl"><p>Count, Tf-idf, Logistic regression, SVM, Hyperopt comparison</p></span>
+		</td>
+		<td class="auto-style6"><span lang="pl">
+			<a href="https://marcinchomicz.github.io/Natural%20language%20processing/IMDB_sentiment_analysis/IMDB_CNN_averaged.html">
+				IMDB Sentiment analysis - word embedding with averaged CNN</a>
+			<a href="https://marcinchomicz.github.io/Natural%20language%20processing/IMDB_sentiment_analysis/IMDB_CNN_averaged.ipynb">
+				<img class="auto-style5" height="10" src="logo_svg.png" width="37"></a></span>
+		</td>
+		<td>
+			<span lang="pl"><p>Count, Tf-idf, Logistic regression, SVM, Hyperopt comparison</p></span>
+		</td>		
 	</tr>
 </table>
 
