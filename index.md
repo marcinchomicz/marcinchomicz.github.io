@@ -6,6 +6,7 @@
 .auto-style1 {
 	text-align: left;
 	font-size: large;
+	font-style: bold;
 }
 .auto-style1A {
 	text-align: left;
