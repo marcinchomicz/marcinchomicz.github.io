@@ -49,7 +49,7 @@
 	</tr>
 	<tr><td class="auto-style6"><span lang="pl">
 		<a href="https://marcinchomicz.github.io/Natural%20language%20processing/IMDB_sentiment_analysis/IMDB%20sentiment%20analysis%20CS.html">
-			IMDB Sentiment analysis - ML classifiers and BOW representation</a>
+			IMDB Sentiment - ML classifiers and BOW representation</a>
 		<a href="https://marcinchomicz.github.io/Natural%20language%20processin/IMDB_sentiment_analysis/IMDB%20sentiment%20analysis%20CS.ipynb">
 				<img class="auto-style5" height="10" src="logo_svg.png" width="37"></a></span>
 		</td>
@@ -59,7 +59,7 @@
 	<tr>
 		<td class="auto-style6"><span lang="pl">
 			<a href="https://marcinchomicz.github.io/Natural%20language%20processing/IMDB_sentiment_analysis/IMDB%20Gensim%20Doc2Vec%20sentiment.html">
-				IMDB Sentiment analysis - Gensim Doc2Vec</a>
+				IMDB Sentiment - Gensim Doc2Vec</a>
 			<a href="https://marcinchomicz.github.io/Natural%20language%20processing/IMDB_sentiment_analysis/IMDB%20Gensim%20Doc2Vec%20sentiment.ipynb">
 				<img class="auto-style5" height="10" src="logo_svg.png" width="37"></a></span>
 		</td>
@@ -70,7 +70,7 @@
 	<tr>
 		<td class="auto-style6"><span lang="pl">
 			<a href="https://marcinchomicz.github.io/Natural%20language%20processing/IMDB_sentiment_analysis/IMDB_CNN_averaged.html">
-				IMDB Sentiment analysis - word embedding with averaged CNN</a>
+				IMDB Sentiment - word embedding with averaged CNN</a>
 			<a href="https://marcinchomicz.github.io/Natural%20language%20processing/IMDB_sentiment_analysis/IMDB_CNN_averaged.ipynb">
 				<img class="auto-style5" height="10" src="logo_svg.png" width="37"></a></span>
 		</td>
