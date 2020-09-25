@@ -4,10 +4,12 @@
 	list-style-type: lower-greek;
 }
 .auto-style1 {
-	text-align: center;
+	text-align: left;
+	font-size: large;
 }
 .auto-style1A {
 	text-align: left;
+	font-size: medium;
 }	
 .auto-style2 {
 	border: 0px solid #00FF00;
@@ -19,7 +21,7 @@
 	border-width: 0px;
 }
 .auto-style6 {
-	font-size: medium;
+	font-size: small;
 }
 .auto-style7 {
 	text-align: left;
