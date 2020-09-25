@@ -46,10 +46,11 @@
 		<th class="auto-style1A" style="width: 40%"><span lang="pl">Binary classification</span></th>
 	</tr>
 	<tr>
-		<td class="auto-style6">
-			<span lang="pl"><a href="https://marcinchomicz.github.io/Natural%20language%20processing/IMDB_sentiment_analysis/IMDB%20sentiment%20analysis%20CS.html">
-				IMDB Sentiment analysis - ML classifiers and BOW representation</a><a href="https://marcinchomicz.github.io/Natural%20language%20processin
-					/IMDB_sentiment_analysis/IMDB%20sentiment%20analysis%20CS.ipynb"><img class="auto-style5" height="10" src="logo_svg.png" width="37"</a></span>
+		<td class="auto-style6"><span lang="pl">
+			<a href="https://marcinchomicz.github.io/Natural%20language%20processing/IMDB_sentiment_analysis/IMDB%20sentiment%20analysis%20CS.html">
+				IMDB Sentiment analysis - ML classifiers and BOW representation</a>
+			<a href="https://marcinchomicz.github.io/Natural%20language%20processin/IMDB_sentiment_analysis/IMDB%20sentiment%20analysis%20CS.ipynb">
+				<img class="auto-style5" height="10" src="logo_svg.png" width="37"</a></span>
 		</td>
 		<td class="auto-style7A">
 			<span lang="pl">Count, Tf-idf, Logistic regression, SVM, Hyperopt comparison</span>
