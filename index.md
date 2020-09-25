@@ -11,7 +11,6 @@
 .auto-style1A {
 	text-align: left;
 	font-size: medium;
-	font-size: green;
 }	
 .auto-style2 {
 	border: 0px solid #00FF00;
@@ -35,14 +34,14 @@
 }	
 </style>
 </head>
-<p>THe case studies included here were prepared either to verify some ideas, compare the results of various computation variants, or test the analytical process.</p>
+<p>The case studies included here were prepared either to verify some ideas, compare the results of various computation variants, or test the analytical process. Most of the notebooks are based on publicly available datasets, so the results can be easily compared to the solutions from Kaggle or other publicly available data science portals, nevertheless, the goal of the case studies was not to achieve to best possible performance.</p>
 <body class="newStyle1" style="background-color: #FFFFFF">
 
 <table cellspacing="1" class="auto-style2" style="width: 1024px">
-	<tr colspan=2>
-		<th class="auto-style1" style="width: 60%"><span lang="pl">NLP case studies - short and simple</span></th>
+	<tr>
+		<th class="auto-style1" style="width: 60%"><span lang="pl">NLP case studies</span></th>
 	</tr>
-	<tr colspan=2>
+	<tr>
 		<th class="auto-style1A" style="width: 40%"><span lang="pl">Binary classification</span></th>
 	</tr>
 	<tr>
