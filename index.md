@@ -7,7 +7,7 @@
 	text-align: center;
 }
 .auto-style2 {
-	border: 2px solid #FFFFFF;
+	border: 0px solid #00FF00;
 }
 .auto-style4 {
 	text-align: left;
@@ -16,7 +16,7 @@
 	border-width: 0px;
 }
 .auto-style6 {
-	font-size: small;
+	font-size: medium;
 }
 .auto-style7 {
 	text-align: left;
@@ -44,12 +44,12 @@
 			IMDB Sentiment analysis - Gensim Doc2Vec</a>
 			</span>
 			<a href="https://marcinchomicz.github.io/Natural%20language%20processing/IMDB_sentiment_analysis/IMDB%20Gensim%20Doc2Vec%20sentiment.ipynb">
-			<img class="auto-style5" height="9" src="logo_svg.png" width="37"></a></li>
+			<img class="auto-style5" height="10" src="logo_svg.png" width="37"></a></li>
 			<li><span lang="pl">
 			<a href="https://marcinchomicz.github.io/Natural%20language%20processing/IMDB_sentiment_analysis/IMDB_CNN_averaged.html">
 				IMDB Sentiment analysis - word embedding with averaged CNN</a>
 			<a href="https://marcinchomicz.github.io/Natural%20language%20processing/IMDB_sentiment_analysis/IMDB_CNN_averaged.ipynb">
-			<img class="auto-style5" height="9" src="logo_svg.png" width="37"></a></span></li>
+			<img class="auto-style5" height="10" src="logo_svg.png" width="37"></a></span></li>
 		</ul>
 		</td>
 		<td>&nbsp;</td>
