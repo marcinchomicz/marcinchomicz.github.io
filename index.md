@@ -29,29 +29,24 @@
 	text-align: left;
 	font-size: small;
 }
-.auto-style7A {
-	text-align: left;
-	font-size: xsmall;
-}
 </style>
 </head>
-<p>The case studies included here were prepared either to verify some ideas, compare the results of various computation variants, or test the analytical process. Most of the notebooks are based on publicly available datasets, so the results can be easily compared to the solutions from Kaggle or other publicly available data science portals, nevertheless, the goal of the case studies was not to achieve to best possible performance.</p>
+<p>THe case studies included here were prepared either to verify some ideas, compare the results of various computation variants, or test the analytical process.</p>
 <body class="newStyle1" style="background-color: #FFFFFF">
 
 <table cellspacing="1" class="auto-style2" style="width: 1024px">
 	<tr>
-		<th class="auto-style1" style="width: 60%"><span lang="pl">NLP case studies</span></th>
-		<th class="auto-style1" style="width: 40%"><span lang="pl">tools/techniques</span></th>
+		<th class="auto-style1" style="width: 100%"><span lang="pl">NLP case studies - short and simple</span></th>
 	</tr>
 	<tr>
-		<th class="auto-style1A" style="width: 60%"><span lang="pl">Binary classification</span></th>
+		<th class="auto-style1A" style="width: 100%"><span lang="pl">Binary classification</span></th>
 	</tr>
 	<tr>
 		<td class="auto-style6">
 		<ul>
 			<li><span lang="pl">
 			<a href="https://marcinchomicz.github.io/Natural%20language%20processing/IMDB_sentiment_analysis/IMDB%20sentiment%20analysis%20CS.html">
-			IMDB Sentiment analysis - ML classifiers and count/TFIDF representation</a>
+			IMDB Sentiment analysis - ML classifiers and BOW representation</a>
 			<a href="https://marcinchomicz.github.io/Natural%20language%20processing/IMDB_sentiment_analysis/IMDB%20sentiment%20analysis%20CS.ipynb">
 			<img class="auto-style5" height="10" src="logo_svg.png" width="37"></a></span></li>
 			<li style="width: 500px"><span lang="pl">
@@ -67,7 +62,10 @@
 			<img class="auto-style5" height="10" src="logo_svg.png" width="37"></a></span></li>
 		</ul>
 		</td>
-		<td>&nbsp;</td>
+		<td>
+			<li><span lang="pl">
+			<p>Count, Tf-idf, Logistic regression, SVM, Hyperopt comparison</p></span></li>
+		</td>
 	</tr>
 	<tr>
 		<td colspan="2">&nbsp;</td>
