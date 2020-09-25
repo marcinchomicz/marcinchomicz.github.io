@@ -38,8 +38,8 @@
 <body class="newStyle1" style="background-color: #FFFFFF">
 
 <table cellspacing="1" class="auto-style2" style="width: 1024px">
-	<tr><th class="auto-style1" style="width: 100%"><span lang="pl">NLP case studies</span></th></tr>
-	<tr><th class="auto-style1A" style="width: 40%"><span lang="pl">Binary classification</span></th></tr>
+	<tr><th class="auto-style1" style="width: 50%"><span lang="pl">NLP case studies</span></th></tr>
+	<tr><th class="auto-style1A" style="width: 50%"><span lang="pl">Binary classification</span></th></tr>
 	<tr><td class="auto-style6"><span lang="pl">
 		<a href="https://marcinchomicz.github.io/Natural%20language%20processing/IMDB_sentiment_analysis/IMDB%20sentiment%20analysis%20CS.html">
 			IMDB Sentiment analysis - ML classifiers and BOW representation</a>
@@ -47,7 +47,7 @@
 				<img class="auto-style5" height="10" src="logo_svg.png" width="37"></a></span>
 		</td>
 		<td class="auto-style7A">
-			<span lang="pl"><p>Count, Tf-idf, Logistic regression, SVM, Hyperopt comparison</p></span></td>
+			<span lang="pl"><p>Tf-idf and count based representation classified using Hyperopt optimized traditional classifiers: LinearSVC, BernoulliNB and Logistic regression</p></span></td>
 	</tr>	
 	<tr>
 		<td class="auto-style6"><span lang="pl">
