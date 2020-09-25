@@ -31,7 +31,7 @@
 }
 </style>
 </head>
-
+<p>THe case studies included here were prepared either to verify some ideas, compare the results, or test the analytical process</p>
 <body class="newStyle1" style="background-color: #FFFFFF">
 
 <table cellspacing="1" class="auto-style2" style="width: 1024px">
