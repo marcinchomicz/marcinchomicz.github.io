@@ -29,6 +29,10 @@
 	text-align: left;
 	font-size: small;
 }
+.auto-style7A {
+	text-align: left;
+	font-size: x-small;
+}	
 </style>
 </head>
 <p>THe case studies included here were prepared either to verify some ideas, compare the results of various computation variants, or test the analytical process.</p>
@@ -36,10 +40,10 @@
 
 <table cellspacing="1" class="auto-style2" style="width: 1024px">
 	<tr>
-		<th class="auto-style1" style="width: 100%"><span lang="pl">NLP case studies - short and simple</span></th>
+		<th class="auto-style1" style="width: 60%"><span lang="pl">NLP case studies - short and simple</span></th>
 	</tr>
 	<tr>
-		<th class="auto-style1A" style="width: 100%"><span lang="pl">Binary classification</span></th>
+		<th class="auto-style1A" style="width: 40%"><span lang="pl">Binary classification</span></th>
 	</tr>
 	<tr>
 		<td class="auto-style6">
@@ -47,8 +51,8 @@
 				IMDB Sentiment analysis - ML classifiers and BOW representation</a><a href="https://marcinchomicz.github.io/Natural%20language%20processin
 					/IMDB_sentiment_analysis/IMDB%20sentiment%20analysis%20CS.ipynb"><img class="auto-style5" height="10" src="logo_svg.png" width="37"</a></span>
 		</td>
-		<td>
-			<span lang="pl"><p>Count, Tf-idf, Logistic regression, SVM, Hyperopt comparison</p></span>
+		<td class="auto-style7A">
+			<span lang="pl">Count, Tf-idf, Logistic regression, SVM, Hyperopt comparison</span>
 		</td>
 	</tr>
 	<tr>
