@@ -6,6 +6,9 @@
 .auto-style1 {
 	text-align: center;
 }
+.auto-style1A {
+	text-align: left;
+}	
 .auto-style2 {
 	border: 0px solid #00FF00;
 }
@@ -29,7 +32,10 @@
 
 <table cellspacing="1" class="auto-style2" style="width: 1024px">
 	<tr>
-		<th class="auto-style1" style="width: 50%"><span lang="pl">NLP case studies - short and simple</span></th>
+		<th class="auto-style1" style="width: 100%"><span lang="pl">NLP case studies - short and simple</span></th>
+	</tr>
+	<tr>
+		<th class="auto-style1A" style="width: 100%"><span lang="pl">Binary classification</span></th>
 	</tr>
 	<tr>
 		<td class="auto-style6">
