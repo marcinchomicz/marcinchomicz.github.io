@@ -43,24 +43,8 @@
 	</tr>
 	<tr>
 		<td class="auto-style6">
-		<ul>
-			<li><span lang="pl">
-			<a href="https://marcinchomicz.github.io/Natural%20language%20processing/IMDB_sentiment_analysis/IMDB%20sentiment%20analysis%20CS.html">
-			IMDB Sentiment analysis - ML classifiers and BOW representation</a>
-			<a href="https://marcinchomicz.github.io/Natural%20language%20processing/IMDB_sentiment_analysis/IMDB%20sentiment%20analysis%20CS.ipynb">
-			<img class="auto-style5" height="10" src="logo_svg.png" width="37"></a></span></li>
-			<li style="width: 500px"><span lang="pl">
-			<a href="https://marcinchomicz.github.io/Natural%20language%20processing/IMDB_sentiment_analysis/IMDB%20Gensim%20Doc2Vec%20sentiment.html">
-			IMDB Sentiment analysis - Gensim Doc2Vec</a>
-			</span>
-			<a href="https://marcinchomicz.github.io/Natural%20language%20processing/IMDB_sentiment_analysis/IMDB%20Gensim%20Doc2Vec%20sentiment.ipynb">
-			<img class="auto-style5" height="10" src="logo_svg.png" width="37"></a></li>
-			<li><span lang="pl">
-			<a href="https://marcinchomicz.github.io/Natural%20language%20processing/IMDB_sentiment_analysis/IMDB_CNN_averaged.html">
-				IMDB Sentiment analysis - word embedding with averaged CNN</a>
-			<a href="https://marcinchomicz.github.io/Natural%20language%20processing/IMDB_sentiment_analysis/IMDB_CNN_averaged.ipynb">
-			<img class="auto-style5" height="10" src="logo_svg.png" width="37"></a></span></li>
-		</ul>
+		<span lang="pl"><a href="https://marcinchomicz.github.io/Natural%20language%20processing/IMDB_sentiment_analysis/IMDB%20sentiment%20analysis%20CS.html">
+		IMDB Sentiment analysis - ML classifiers and BOW representation</a><a href="https://marcinchomicz.github.io/Natural%20language%20processing/IMDB_sentiment_analysis/IMDB%20sentiment%20analysis%20CS.ipynb"><img class="auto-style5" height="10" src="logo_svg.png" width="37"></a>
 		</td>
 		<td>
 			<li><span lang="pl">
