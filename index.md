@@ -25,7 +25,7 @@
 </style>
 </head>
 
-<body class="newStyle1" style="background-color: #FFFFFF">
+<body class="newStyle1" style="background-color: #FFFFBB">
 
 <table cellspacing="1" class="auto-style2" style="width: 1024px">
 	<tr>
