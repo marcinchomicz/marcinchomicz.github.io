@@ -1,5 +1,4 @@
-<html lang="en"><head><meta charset="UTF-8"><title>Kod przykładowy</title>
-<style type="text/css">
+<html lang="pl"><head><meta charset="UTF-8"><style type="text/css">
 .newStyle1 {
 	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 	list-style-type: lower-greek;
