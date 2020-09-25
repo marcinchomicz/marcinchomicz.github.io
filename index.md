@@ -25,17 +25,11 @@
 </style>
 </head>
 
-<body class="newStyle1" style="background-color: #FFFFBB">
+<body class="newStyle1" style="background-color: #FFFFFF">
 
 <table cellspacing="1" class="auto-style2" style="width: 1024px">
 	<tr>
-		<th class="auto-style1" style="width: 50%"><span lang="pl">Case studies</span></th>
-		<th class="auto-style1" style="height: 22px"><span lang="pl">
-		Tools/Techniques</span></th>
-	</tr>
-	<tr>
-		<td class="auto-style7"><span lang="pl" class="auto-style6">Natural language processing</span></td>
-		<td class="auto-style4">&nbsp;</td>
+		<th class="auto-style1" style="width: 50%"><span lang="pl">NLP case studies - short and simple</span></th>
 	</tr>
 	<tr>
 		<td class="auto-style6">
