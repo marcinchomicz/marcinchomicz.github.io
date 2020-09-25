@@ -64,7 +64,8 @@
 		</td>
 		<td>
 			<li><span lang="pl">
-			<p>Count, Tf-idf, Logistic regression, SVM, Hyperopt comparison</p></span></li>
+			<p>Count, Tf-idf, Logistic regression, SVM, Hyperopt comparison</p></span>
+			</li>
 		</td>
 	</tr>
 	<tr>
