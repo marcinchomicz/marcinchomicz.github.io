@@ -7,7 +7,7 @@
 	text-align: left;
 	font-size: large;
 	font-style: bold;
-	border: 1px solid #00FF00;
+	border: 0px solid #00FF00;
 	
 }
 .auto-style1A {
@@ -15,7 +15,7 @@
 	font-size: medium;
 }	
 .auto-style2 {
-	border: 1px solid #00FF00;
+	border: 0px solid #00FF00;
 }
 .auto-style4 {
 	text-align: left;
