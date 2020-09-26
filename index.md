@@ -41,8 +41,8 @@
 
 <table cellspacing="1" class="auto-style2" style="width: 1024px">
 	<tr>
-		<th class="auto-style1" style="width: 50%"><span lang="pl">NLP case studies</span></th>
-		<th class="auto-style1" style="width: 50%"><span lang="pl"></span></th>
+		<th class="auto-style1" style="width: 40%"><span lang="pl">NLP case studies</span></th>
+		<th class="auto-style1" style="width: 60%"><span lang="pl"></span></th>
 	</tr>
 	<tr>
 		<th class="auto-style1A" style="width: 50%"><span lang="pl"></span></th>
