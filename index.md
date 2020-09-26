@@ -45,8 +45,8 @@
 		<th class="auto-style1" style="width: 60%"><span lang="pl"></span></th>
 	</tr>
 	<tr>
-		<th class="auto-style1A" style="width: 50%"><span lang="pl"></span></th>
 		<th class="auto-style1A" style="width: 10%"><span lang="pl">Binary classification</span></th>
+		<th class="auto-style1A" style="width: 50%"><span lang="pl"></span></th>
 		<th class="auto-style1A" style="width: 40%"><span lang="pl"></span></th>
 	</tr>
 	<tr><td class="auto-style6"><span lang="pl">
