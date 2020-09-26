@@ -7,19 +7,21 @@
 	text-align: left;
 	font-size: large;
 	font-style: bold;
+	border: 1px solid #00FF00;
+	
 }
 .auto-style1A {
 	text-align: left;
 	font-size: medium;
 }	
 .auto-style2 {
-	border: 0px solid #00FF00;
+	border: 1px solid #00FF00;
 }
 .auto-style4 {
 	text-align: left;
 }
 .auto-style5 {
-	border-width: 0px;
+	border-width: 1px;
 }
 .auto-style6 {
 	font-size: small;
@@ -43,9 +45,9 @@
 		<th class="auto-style1" style="width: 50%"><span lang="pl"></span></th>
 	</tr>
 	<tr>
-		<th class="auto-style1A" style="width: 5%"><span lang="pl"></span></th>
-		<th class="auto-style1A" style="width: 35%"><span lang="pl">Binary classification</span></th>
-		<th class="auto-style1A" style="width: 60%"><span lang="pl"></span></th>
+		<th class="auto-style1A" style="width: 50%"><span lang="pl"></span></th>
+		<th class="auto-style1A" style="width: 10%"><span lang="pl">Binary classification</span></th>
+		<th class="auto-style1A" style="width: 40%"><span lang="pl"></span></th>
 	</tr>
 	<tr><td class="auto-style6"><span lang="pl">
 		<a href="https://marcinchomicz.github.io/Natural%20language%20processing/IMDB_sentiment_analysis/IMDB%20sentiment%20analysis%20CS.html">
