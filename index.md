@@ -39,13 +39,13 @@
 
 <table cellspacing="1" class="auto-style2" style="width: 1024px">
 	<tr>
-		<th class="auto-style1" style="width: 40%"><span lang="pl">NLP case studies</span></th>
-		<th class="auto-style1" style="width: 60%"><span lang="pl"></span></th>
+		<th class="auto-style1" style="width: 50%"><span lang="pl">NLP case studies</span></th>
+		<th class="auto-style1" style="width: 50%"><span lang="pl"></span></th>
 	</tr>
 	<tr>
-		<th class="auto-style1A" style="width: 10%"><span lang="pl"></span></th>
-		<th class="auto-style1A" style="width: 40%"><span lang="pl">Binary classification</span></th>
-		<th class="auto-style1A" style="width: 50%"><span lang="pl"></span></th>
+		<th class="auto-style1A" style="width: 5%"><span lang="pl"></span></th>
+		<th class="auto-style1A" style="width: 35%"><span lang="pl">Binary classification</span></th>
+		<th class="auto-style1A" style="width: 60%"><span lang="pl"></span></th>
 	</tr>
 	<tr><td class="auto-style6"><span lang="pl">
 		<a href="https://marcinchomicz.github.io/Natural%20language%20processing/IMDB_sentiment_analysis/IMDB%20sentiment%20analysis%20CS.html">
