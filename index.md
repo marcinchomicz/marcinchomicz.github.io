@@ -66,7 +66,7 @@
 				<img class="auto-style5" height="10" src="logo_svg.png" width="37"></a></span>
 		</td>
 		<td class="auto-style7A">
-			<span lang="pl"><p>Count, Tf-idf, Logistic regression, SVM, Hyperopt comparison</p></span>
+			<span lang="pl"><p>Gensim paragraph embedding representation used as input for logistic regression classifier. Hyperparameters of both, vectorization and classification tuned with Hyperopt.</p></span>
 		</td>
 	</tr>
 	<tr>
@@ -77,7 +77,7 @@
 				<img class="auto-style5" height="10" src="logo_svg.png" width="37"></a></span>
 		</td>
 		<td class="auto-style7A">
-			<span lang="pl"><p>Count, Tf-idf, Logistic regression, SVM, Hyperopt comparison</p></span>
+			<span lang="pl"><p>Five CNN variants used for classification on word embeddings. Hyperparamteters tuned with Bayesian algorithm.</p></span>
 		</td>		
 	</tr>
 </table>
