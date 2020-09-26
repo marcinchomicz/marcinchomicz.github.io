@@ -12,7 +12,7 @@
 }
 .auto-style1A {
 	text-align: left;
-	font-size: medium;
+	font-size: small;
 }	
 .auto-style2 {
 	border: 0px solid #00FF00;
