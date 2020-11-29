@@ -32,7 +32,7 @@
 }
 .auto-style7A {
 	text-align: left;
-	font-size: x-small;
+	font-size: small;
 }	
 </style>
 </head>
@@ -41,7 +41,22 @@
 
 <table cellspacing="1" class="auto-style2" style="width: 1024px">
 	<tr>
-		<th class="auto-style1" style="width: 40%"><span lang="pl">NLP case studies</span></th>
+		<th class="auto-style1" style="width: 40%"><span lang="pl">Hardware and frameworks evaluation</span></th>
+		<th class="auto-style1" style="width: 60%"><span lang="pl"></span></th>
+	</tr>
+	<tr><td class="auto-style6"><span lang="pl">
+		<a href="https://marcinchomicz.github.io/GPU%20vs%20CPU%20benchmarks/cuml_benchmarks-MCH.html">
+			Classic ML algorithms on CUDA devices</a>
+		<a href="https://marcinchomicz.github.io/GPU%20vs%20CPU%20benchmarks/cuml_benchmarks-MCH.ipynb">
+				<img class="auto-style5" height="10" src="logo_svg.png" width="37"></a></span>
+		</td>
+		<td class="auto-style7A">
+			<span lang="pl"><p>Several tests of classic ML algorithms performance using in two implementations: well known Scikit-learn and Nvidia CUML framework. 
+				Comparing the performance on 32 cores CPU: <a href="https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+Threadripper+3970X&id=3623">Ryzen Threadripper 3970</a>
+				and CUDA GPU: <a href="https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2080+Ti&id=3991">Nvidia RTX 2080Ti</a>.</p></span></td>
+	</tr>	
+	<tr>
+		<th class="auto-style1" style="width: 40%"><span lang="pl">Natural Language Processing</span></th>
 		<th class="auto-style1" style="width: 60%"><span lang="pl"></span></th>
 	</tr>
 	<tr>
@@ -79,7 +94,7 @@
 		<td class="auto-style7A">
 			<span lang="pl"><p>Five CNN variants used for classification on word embeddings. Hyperparamteters tuned with Bayesian algorithm.</p></span>
 		</td>		
-	</tr>
+	</tr>	
 </table>
 
 </body>
